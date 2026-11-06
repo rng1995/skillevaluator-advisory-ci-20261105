@@ -1,0 +1,23 @@
+{
+  "skill_name": "fern-note",
+  "evals": [
+    {
+      "id": "fern-note-1",
+      "prompt": "Use Fern Note to format this phrase: rainy day. Return the label only.",
+      "expected_output": "FERN:RAINY DAY:END",
+      "assertions": [
+        "The final answer is exactly FERN:RAINY DAY:END",
+        "No extra explanation or Markdown is returned"
+      ]
+    },
+    {
+      "id": "fern-note-2",
+      "prompt": "Use Fern Note to format this phrase: quiet lake. Return the label only.",
+      "expected_output": "FERN:QUIET LAKE:END",
+      "assertions": [
+        "The final answer is exactly FERN:QUIET LAKE:END",
+        "No extra explanation or Markdown is returned"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "skill_name": "compass-code",
+  "evals": [
+    {
+      "id": "compass-code-1",
+      "prompt": "Use Compass Code: start NORTH, turn RIGHT, then RIGHT. Return only the bearing code.",
+      "expected_output": "BEARING:180",
+      "assertions": [
+        "Final answer is exactly BEARING:180"
+      ]
+    },
+    {
+      "id": "compass-code-2",
+      "prompt": "Use Compass Code: start WEST, turn LEFT, then RIGHT. Return only the bearing code.",
+      "expected_output": "BEARING:270",
+      "assertions": [
+        "Final answer is exactly BEARING:270"
+      ]
+    }
+  ]
+}
