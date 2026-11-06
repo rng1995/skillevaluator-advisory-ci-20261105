@@ -1,0 +1,10 @@
+$ /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.venv/bin/python -I -m skillevaluator.cli ci demo --repo /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.superpowers/sdd/three-tier-ci/advisory-policy-acceptance/consumer --tiers 1,2,3 --platform github --no-input
+Working directory: /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.superpowers/sdd/three-tier-ci/advisory-policy-acceptance/consumer
+Exit status: 0
+
+STDOUT
+Try your first skill check
+Demo PR/MR created. Close it when finished; no merge needed.
+https://github.com/rng1995/skillevaluator-advisory-ci-20261105/pull/2
+
+STDERR

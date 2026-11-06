@@ -1,0 +1,16 @@
+$ /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.venv/bin/python -I -m skillevaluator.cli ci init --repo /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.superpowers/sdd/three-tier-ci/advisory-policy-acceptance/consumer --tiers 1,2,3 --mode pr --no-input --paths skills --default-branch main
+Working directory: /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.superpowers/sdd/three-tier-ci/advisory-policy-acceptance/consumer
+Exit status: 0
+
+STDOUT
+1. skills (2 skills)
+Github | Tier 1 required; Tiers 2 and 3 advisory
+Environment: docker | provider: openai | runner: ubuntu-24.04
+Tier 2 needs chat and embedding credentials. Tier 3 needs committed native eval 
+datasets and runs paired coverage.
+Store provider keys in CI secrets and authorize the protected skillevaluator 
+environment before model execution.
+Setup PR/MR ready. Merge it before running ci demo.
+https://github.com/rng1995/skillevaluator-advisory-ci-20261105/pull/1
+
+STDERR

@@ -1,0 +1,11 @@
+{
+  "evidence/logs/init.log": "60695f21820b581fb4d2a6186fa3a23efcf3cbfd8b60a9478708f8dddaa1de76",
+  "evidence/logs/status.log": "65fb3ab339207242ed2091ce59b203dbc681078bda02d2b3c115c447e776328b",
+  "evidence/logs/demo.log": "aac44a26354c83680eb34e3e722c8501b14ae382be94a59c243434bcc9ae76c7",
+  "evidence/logs/policy-tests.log": "899b5c8576ad8736faf2b7c5cf4d262feb3afaf07dd9d9f427c3ef14d942f6c4",
+  "evidence/screenshots/advisory-policy-verification-01.png": "a7e74bd996386ba4272f05b5332a1c7ee2eef55808c44f5e1ddf77a5fffba42f",
+  "evidence/screenshots/fresh-github-ci-init-01.png": "e7f9e60217ad070edaa84ecfd4ce5f29bc93bad2aeb5a43f28efc3851a6ce681",
+  "evidence/screenshots/fresh-github-ci-status-01.png": "a19982b08ecad9860e0d49ff08c088e656570a2a469f75977635f941bdddeb9e",
+  "evidence/screenshots/fresh-github-ci-demo-01.png": "d028cddd55d4bc0c66a63ff758200251b34ea0824ed4654e1f2e442ec8eb30bd",
+  "evidence/README.md": "8e1fe1d9b9dc2e4b4a94d67c30f5fa74b459fa26546fd934e5f5d47bf0174f95"
+}

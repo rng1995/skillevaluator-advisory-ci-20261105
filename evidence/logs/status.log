@@ -1,0 +1,15 @@
+$ /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.venv/bin/python -I -m skillevaluator.cli ci status --repo /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.superpowers/sdd/three-tier-ci/advisory-policy-acceptance/consumer --tiers 1,2,3 --platform github
+Working directory: /Users/nraghavan/.codex/worktrees/three-tier-ci-onboarding/SkillEvaluator/.superpowers/sdd/three-tier-ci/advisory-policy-acceptance/consumer
+Exit status: 0
+
+STDOUT
+Github rng1995/skillevaluator-advisory-ci-20261105 | default branch: main
+All-tier checks: configured
+Trusted feedback: configured
+Scan approval: matches exact workflow
+Latest pipeline: in_progress
+https://github.com/rng1995/skillevaluator-advisory-ci-20261105/actions/runs/42156056401
+Configuration alone is not a verified scan. Inspect the demo check, comment and 
+artifact reports.
+
+STDERR
